@@ -17,7 +17,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
+- $ `https://github.com/DeveloperOfGilgamesh/DDOS-ATACK.git`
 - $ `cd V-DdoS`
 - $ `chmod +x V-DdoS.py`
 - $ `python2 V-DdoS.py`
